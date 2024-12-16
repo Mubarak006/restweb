@@ -62,7 +62,7 @@ restweb.html
             vertical-align: middle;
         }
 
-        .logo-container .bakery-name {
+        .logo-container.Restaurantname {
             display: inline-block;
             margin: 0;
             font-size: 1.8em;
@@ -163,7 +163,7 @@ restweb.html
     <!-- Header Section -->
     <div class="header">
         <div class="logo-container">
-            <img src="logo.jpeg" alt="Bakery Logo" class="logo-img">
+            <img src="logo.jpeg" alt="Restaurant Logo" class="logo-img">
             <h2 class="Restaurant-name">Mubarak Restaurant</h2>
         </div>
     </div>
@@ -197,7 +197,7 @@ restweb.html
         <div class="card">
             <h3>Book a Table</h3>
             <img src="booktable.jpeg" alt="Book a Table">
-            <p><b>Reserve your table today and enjoy to eat our freshly maked dhishes with peacefully.</b></p>
+            <p><b>Reserve your table today and enjoy to eat our freshly maked dishes with peacefully.</b></p>
             <a href="booktable.html"><u>Book Now</u></a>
         </div>
     
